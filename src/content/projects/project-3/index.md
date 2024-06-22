@@ -1,45 +1,23 @@
 ---
-title: "Astro Micro"
-description: "Astro Micro is an accessible and lightweight blog."
-date: "2024-05-26"
-demoURL: "https://astro-micro.vercel.app"
-repoURL: "https://github.com/trevortylerlee/astro-micro"
+title: "App de Previsão do Tempo"
+description: "Aplicação para verificar a previsão do tempo."
+date: "09/05/2024"
+demoURL: "https://app-previsao-do-tempo-two.vercel.app/"
+repoURL: "https://github.com/Eronrhcp/app-previsao-do-tempo"
 ---
 
-![Astro Micro](/astro-micro.jpg)
+![App de Previsão do Tempo](/app-previsao-do-tempo.jpg)
 
-Astro Micro is an accessible theme for Astro. It's a fork of Mark Horn's popular theme Astro Nano. Like Nano, Micro comes with zero frameworks installed.
+## 💻 Sobre o Projeto
 
-Micro adds features like [Pagefind](https://pagefind.app) for search, [Giscus](https://giscus.app) for comments, and more. For a full list of changes, see this [blog post](/blog/00-micro-changelog).
+Eu e o meu amigo <a href="https://github.com/Eronrhcp" target="_blank">Eron</a>, tivemos a ideia de desenvolver um app de **Previsão do Tempo** com o intuito de fazermos um projeto juntos e testar nossas habilidades com outras tecnologias.
 
-Micro still comes with everything great about Nano — full type safety, a sitemap, an RSS feed, and Markdown + MDX support. Styled with TailwindCSS and preconfigured with system, light, and dark themes.
+## 🚀 Tecnologias Utilizadas
 
-Visit [Astro Micro on Github](https://github.com/trevortylerlee/astro-micro) to get started.
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-## 🚀 Deploy your own
-
-<div class="flex gap-2">
-  <a target="_blank" aria-label="Deploy with Vercel" href="https://vercel.com/new/clone?repository-url=https://github.com/trevortylerlee/astro-micro">
-    <img src="/deploy_vercel.svg" />
-  </a>
-  <a target="_blank" aria-label="Deploy with Netlify" href="https://app.netlify.com/start/deploy?repository=https://github.com/trevortylerlee/astro-micro">
-    <img src="/deploy_netlify.svg" />
-  </a>
-</div>
-
-## 📋 Features
-
-Everything in [Astro Nano](https://github.com/markhorn-dev/astro-nano) plus:
-
-- Pagefind search
-- Giscus comments
-- Callout component
-- Table of contents component
-- Pagination component
-- 404 page
-
-and [more](/blog/00-micro-changelog).
-
-## 💯 Lighthouse score
-
-![Astro Nano Lighthouse Score](/astro-nano-lighthouse.jpg)
+- React (Vite)
+- TypeScript
+- Axios
+- Git e Github
+- Deploy na Vercel

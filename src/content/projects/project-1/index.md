@@ -1,79 +1,32 @@
 ---
-title: "Astro Sphere"
-description: "Portfolio and blog build with astro."
-date: "03/18/2024"
-demoURL: "https://astro-sphere-demo.vercel.app"
-repoURL: "https://github.com/markhorn-dev/astro-sphere"
+title: "Toolbox"
+description: "A sua caixa de ferramentas."
+date: "12/24/2023"
+demoURL: "https://lmdvlpr-toolbox.vercel.app/"
+repoURL: "https://github.com/lmdvlpr/toolbox"
 ---
 
-![Astro Sphere](/astro-sphere.jpg)
+![Toolbox](/toolbox.jpg)
 
-Astro Sphere is a static, minimalist, lightweight, lightning fast portfolio and blog theme based on Mark Horn's personal website.
+Este é um projeto criado com o intuito de reunir ferramentas úteis para o dia a dia de trabalho no meu emprego atual.
 
-It is primarily Astro, Tailwind and Typescript, with a very small amount of SolidJS for stateful components.
+Atualmente eu trabalho prestando serviços para um cartório na cidade onde moro, e lá nós temos a necessidade de realizar alguns procedimentos no dia a dia da rotina de trabalho.
+Pensando nisso eu resolvi criar uma ferramenta que reunisse essas funcionalidades das quais precisávamos e facilitasse a execução das atividades dos meus colegas de trabalho.
 
-## 🚀 Deploy your own
+## 💻 Funcionalidades do Projeto
 
-<div class="flex gap-2">
-  <a target="_blank" aria-label="Deploy with Vercel" href="https://vercel.com/new/clone?repository-url=https://github.com/markhorn-dev/astro-sphere">
-    <img src="/deploy_vercel.svg" />
-  </a>
-  <a target="_blank" aria-label="Deploy with Netlify" href="https://app.netlify.com/start/deploy?repository=https://github.com/markhorn-dev/astro-sphere">
-    <img src="/deploy_netlify.svg" />
-  </a>
-</div>
+O projeto conta com as seguintes ferramentas:
 
-## 📋 Features
+- Conversor de Textos (converte textos de maiúscula para minúscula e vice-versa)
+- Criptografia de arquivos utilizando HASH SHA256
+- Validação de CPF
+- Validação de CNPJ
 
-- ✅ 100/100 Lighthouse performance
-- ✅ Responsive
-- ✅ Accessible
-- ✅ SEO-friendly
-- ✅ Typesafe
-- ✅ Minimal style
-- ✅ Light/Dark Theme
-- ✅ Animated UI
-- ✅ Tailwind styling
-- ✅ Auto generated sitemap
-- ✅ Auto generated RSS Feed
-- ✅ Markdown support
-- ✅ MDX Support (components in your markdown)
-- ✅ Searchable content (posts and projects)
+## 🚀 Tecnologias Utilizadas
 
-## 💯 Lighthouse score
+O projeto foi desenvolvido com as seguintes tecnologias:
 
-![Astro Sphere Lighthouse Score](/lighthouse-nano.jpg)
-
-## 🕊️ Lightweight
-
-All pages under 100kb (including fonts)
-
-## ⚡︎ Fast
-
-Rendered in ~40ms on localhost
-
-## 📄 Configuration
-
-The blog posts on the demo serve as the documentation and configuration.
-
-## 💻 Commands
-
-All commands are run from the root of the project, from a terminal:
-
-Replace npm with your package manager of choice. `npm`, `pnpm`, `yarn`, `bun`, etc
-
-| Command                   | Action                                            |
-| :------------------------ | :------------------------------------------------ |
-| `npm install`             | Installs dependencies                             |
-| `npm run dev`             | Starts local dev server at `localhost:4321`       |
-| `npm run sync`            | Generates TypeScript types for all Astro modules. |
-| `npm run build`           | Build your production site to `./dist/`           |
-| `npm run preview`         | Preview your build locally, before deploying      |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check`  |
-| `npm run astro -- --help` | Get help using the Astro CLI                      |
-| `npm run lint`            | Run ESLint                                        |
-| `npm run lint:fix`        | Auto-fix ESLint issues                            |
-
-## 🏛️ License
-
-MIT
+- JavaScript
+- React JS + Vite
+- React Router DOM
+- Tailwind CSS
