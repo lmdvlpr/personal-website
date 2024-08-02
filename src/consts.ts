@@ -1,7 +1,7 @@
 import type { Metadata, Site, Socials } from "@types";
 
 export const SITE: Site = {
-  TITLE: "Lucas Mota",
+  TITLE: "<lmdvlpr/>",
   DESCRIPTION:
     "Este é o meu espaço na internet, onde escrevo sobre assuntos do meu interesse e que possam auxiliar outros desenvolvedores.",
   EMAIL: "contato.lukamota@gmail.com",

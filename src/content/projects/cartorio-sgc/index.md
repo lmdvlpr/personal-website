@@ -8,7 +8,9 @@ repoURL: "https://github.com/lmdvlpr/cartorio-sgc"
 
 ![Site do Cartório RI TDPJ de São Gonçalo dos Campos - BA](/site-sgc.jpg)
 
-Fui procurado pelo Oficial do Cartório RI TDPJ de São Gonçalo dos Campos - BA, para criar um site institucional onde as pessoas poderiam obter mais informações sobre o cartório e os serviços oferecidos pela serventia, além disso, é possível acessar modelos de documentos para que o cliente possa ter uma orientação de como prosseguir com os registros que precisa realizar.
+<div class="text-justify">
+  Fui procurado pelo Oficial do Cartório RI TDPJ de São Gonçalo dos Campos - BA, para criar um site institucional onde as pessoas poderiam obter mais informações sobre o cartório e os serviços oferecidos pela serventia, além disso, é possível acessar modelos de documentos para que o cliente possa ter uma orientação de como prosseguir com os registros que precisa realizar.
+</div>
 
 ## 🚀 Tecnologias Utilizadas
 

@@ -10,7 +10,9 @@ repoURL: "https://github.com/Eronrhcp/app-previsao-do-tempo"
 
 ## 💻 Sobre o Projeto
 
-Eu e o meu amigo <a href="https://github.com/Eronrhcp" target="_blank">Eron</a>, tivemos a ideia de desenvolver um app de **Previsão do Tempo** com o intuito de fazermos um projeto juntos e testar nossas habilidades com outras tecnologias.
+<div class="text-justify">
+  Eu e o meu amigo <a href="https://github.com/Eronrhcp" target="_blank">Eron</a>, tivemos a ideia de desenvolver um app de <strong>Previsão do Tempo</strong> com o intuito de fazermos um projeto juntos e testar nossas habilidades com outras tecnologias.
+</div>
 
 ## 🚀 Tecnologias Utilizadas
 

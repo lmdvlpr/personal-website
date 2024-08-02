@@ -8,10 +8,13 @@ repoURL: "https://github.com/lmdvlpr/toolbox"
 
 ![Toolbox](/toolbox.jpg)
 
+<div class="text-justify">
 Este é um projeto criado com o intuito de reunir ferramentas úteis para o dia a dia de trabalho no meu emprego atual.
 
 Atualmente eu trabalho prestando serviços para um cartório na cidade onde moro, e lá nós temos a necessidade de realizar alguns procedimentos no dia a dia da rotina de trabalho.
 Pensando nisso eu resolvi criar uma ferramenta que reunisse essas funcionalidades das quais precisávamos e facilitasse a execução das atividades dos meus colegas de trabalho.
+
+</div>
 
 ## 💻 Funcionalidades do Projeto
 
